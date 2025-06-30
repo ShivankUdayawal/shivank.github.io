@@ -2,13 +2,13 @@
 
 # 🧑‍💻 Shivank Udayawal – Personal Portfolio
 
-Welcome to my personal developer portfolio website, built using HTML, CSS, and JavaScript, and hosted via GitHub Pages at [shivankudayawal.github.io](https://shivankudayawal.github.io). This site showcases my skills, experience, projects, and certifications in Data Science, Machine Learning, and Generative AI.
+Welcome to my personal developer portfolio website, built using HTML, CSS, and JavaScript, and hosted via GitHub Pages at [shivankudayawal.github.io](https://shivankudayawal.github.io/shivank.github.io/). This site showcases my skills, experience, projects, and certifications in Data Science, Machine Learning, and Generative AI.
 
 ---
 
 ## 🚀 Live Site
 
-👉 [Visit Portfolio](https://shivankudayawal.github.io)
+👉 [Visit Portfolio](https://shivankudayawal.github.io/shivank.github.io/)
 
 ---
 
